@@ -1,0 +1,30 @@
+.circle-container
+{width: 1920px;
+height: 1080px;;
+background-color:#d775fc;(7, 2, 2);
+top:0px; left:0px; z-index:-10px; position:absolute;}
+
+.circle
+{width: 400px;
+ height: 400px;
+ border-radius: 50%;
+ background-color:black;
+ position: absolute;}
+
+ .varr
+ {top:300px; left:1000px; z-index: 20px; position:absolute;}
+
+ .varrs
+ {top:0px; left:0px; z-index: 30px; position:absolute;height: 99%; width: 99%;}
+ 
+ .varrrs
+ {top:0px; left:0px; z-index: 10px; position:absolute;}
+
+ .varrss
+ {top:50px; left:-5px; z-index: 5px; position:absolute;height:650px; width: 1580px;}
+
+ .small
+ {width: 1920px;
+    height: 1080px;;}
+
+
